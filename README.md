@@ -1,0 +1,2 @@
+# PokeTeamCalculatorWorker
+Worker for PokeTeamCalculator
